@@ -36,13 +36,11 @@ a:hover {
   padding-top: 100px;
 }
 
-.contact-message {
-  width: 40%;
-  margin: 40px auto 60px;
-}
-
-.copyright {
-  color: #eaf6f6;
-  font-size: 0.75rem;
-  padding: 20px 0;
+.bot {
+  min-width: 400px;
+  width: 50%;
+  min-height: 500px;
+  margin: auto;
+  border: 3px solid;
+  border-radius: 10px;
 }
